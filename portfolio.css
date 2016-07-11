@@ -1,0 +1,19 @@
+body {
+	font-family: 'Aldrich', sans-serif;
+}
+
+.reece-image {
+	border-radius: 50%;
+	margin: 10px 10px 0px 10px;
+}
+
+.namediv {
+	margin-top: 15px;
+}
+
+.project {
+	margin-bottom: 10px;
+}
+.navbar {
+	margin-top:15px;
+}
