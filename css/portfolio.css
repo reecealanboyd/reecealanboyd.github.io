@@ -29,3 +29,8 @@ body {
 .row-two {
 	display: none;
 }
+
+.mtsu-mobile-img {
+	height: 200px;
+	width: 400px;
+}
