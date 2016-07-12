@@ -17,3 +17,11 @@ body {
 .navbar {
 	margin-top:15px;
 }
+
+.main-image-div {
+	display: none;
+}
+
+.mobile-main-image-div {
+	display: none;
+}
