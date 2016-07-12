@@ -30,7 +30,9 @@ body {
 	display: none;
 }
 
-.mtsu-mobile-img {
+.mtsu-mobile-img,
+.project-tango-img {
 	height: 200px;
 	width: 400px;
 }
+
